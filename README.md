@@ -6,4 +6,4 @@
   
 - **_Aprende a usar 3 tipos de Loops en Javascript: Bucles 'for', 'forEach' y 'for ... of'._**
 
-- Estaremos trabajando con los bucles en Javascript para mostrar/imprimir los objetos contenidos en un Array.
+- _Estaremos trabajando con los bucles en Javascript para mostrar/imprimir los objetos contenidos en un Array._
