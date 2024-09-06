@@ -6,3 +6,10 @@ console.log(colores[2]);
 console.log(colores[3]);
 console.log(colores[4]);
 console.log(colores[5]);
+
+// USANDO EL CICLO "for":
+
+for (let i = 0; i < colores.length; i++)
+{
+    console.log(colores[i]);
+}
