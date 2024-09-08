@@ -13,3 +13,10 @@ for (let i = 0; i < colores.length; i++)
 {
     console.log(colores[i]);
 }
+
+// USANDO EL CICLO "for-each":
+
+colores.forEach(function(miColor)
+{
+    console.log(miColor);
+});
