@@ -20,3 +20,12 @@ colores.forEach(function(miColor)
 {
     console.log(miColor);
 });
+
+// COMO SE PUEDEN VISUALIZAR ANTERIORMENTE, LOS 2 TIPOS DE LOOPS MOSTRADOS SON UNA COINCIDENCIA...
+
+// USANDO EL ÚLTIMO CICLO PARA CADA COLOR DENTRO DE UN ARREGLO...
+
+for (let color of colores)
+{
+    console.log(color);
+}
