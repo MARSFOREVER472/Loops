@@ -8,4 +8,4 @@
 
 - **_Estaremos trabajando con ciertos bucles en Javascript para poder mostrar/imprimir los objetos contenidos dentro de un Array._**
 
-- Es decir, aplicaremos dichos bucles 'for', 'forEach' y 'for-of' para capturar el contenido existente en un Array.
+- Es decir, aplicaremos dichos bucles '```for```', 'forEach' y 'for-of' para capturar el contenido existente en un Array.
