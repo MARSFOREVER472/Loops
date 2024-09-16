@@ -9,4 +9,5 @@
 - **_Estaremos trabajando con ciertos bucles en Javascript para poder mostrar/imprimir los objetos contenidos dentro de un Array._**
 
 - **_Es decir, aplicaremos dichos bucles '```for```', '```forEach```' y '```for-of```' para capturar el contenido existente dentro de un arreglo._**
+
 Ésta es una práctica muy habitual día a día de aquella persona en la cuál trabaja desarrollando un código en Javascript y es importante saber cómo hacerlo. 
